@@ -1,0 +1,6 @@
+{
+  "name": "فن الحدائق | Garden Art",
+  "description": "فن الحدائق لتصميم وتنفيذ وتنسيق الحدائق والمساحات الخارجية باحترافية وأناقة في جدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
